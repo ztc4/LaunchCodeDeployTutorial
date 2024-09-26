@@ -1,3 +1,9 @@
+### What all we will use 
+- Amazon Web Services - Database
+- Google Cloud Platform - Deploying Springboot
+- Docker - Creation of Container
+- Vercel - Deploying frontend
+
 ### Initial Download & Account Creation
 
 - download docker - https://docs.docker.com/get-started/get-docker/
@@ -218,6 +224,30 @@ Also for those, who use things like environment variables, they allow you add th
 4. Click “Create”, it should then take a minute to create but it eventually should give you an url, which runs your springboot api
 
 ![Screenshot 2024-09-25 195727.png](./images//Screenshot%202024-09-25%20195727.png)
+
+---
+### Deploy Frontend using Vercel
+
+
+1. Begin by updating all fetch requests in your application to use the URL of your newly deployed backend
+
+2.  Sign up for Vercel and connect to GitHub. If you can't find the GitHub option, proceed to the next step.
+
+3. On the overview page, click the "Create New" dropdown and select "Project"
+
+![Screenshot 2024-09-25 195727.png](./images/Screenshot%202024-09-25%20211253.png)
+
+4. If your GitHub account is already connected, you should see many of your repositories listed. If not, you can click to add your GitHub account.
+
+![Screenshot 2024-09-25 195727.png](./images/Screenshot%202024-09-25%20211609.png)
+
+5. Click "Import" to proceed.
+
+![Screenshot 2024-09-25 195727.png](./images/Screenshot%202024-09-25%20211930.png)
+
+6. If your frontend is in a specific folder, select "Root Directory." to choose which folder your frontend is in, Otherwise, click "Deploy."
+
+![Screenshot 2024-09-25 195727.png](./images/Screenshot%202024-09-25%20211939.png)
 
 ### More Information
 
