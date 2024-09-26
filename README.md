@@ -3,7 +3,8 @@
 - Google Cloud Platform - Deploying Springboot
 - Docker - Creation of Container
 - Vercel - Deploying frontend
-
+- 
+**Reach out to me if you have any problems  - Zachary4coats@gmail.com**
 ### Initial Download & Account Creation
 
 - download docker - https://docs.docker.com/get-started/get-docker/
@@ -193,6 +194,8 @@ You can also confirm the successful upload by visiting https://console.cloud.goo
 ![Screenshot 2024-09-25 194053.png](./images/Screenshot%202024-09-25%20194053.png)
 
 ![Screenshot 2024-09-25 194314.png](./images/Screenshot%202024-09-25%20194314.png)
+
+**Learn more about dockers - https://learn.cantrill.io/p/docker-fundamentals**
 
 ---
 
